@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/srijayd/Desktop/sentiment_tf/sherlock/Karna/ninja2.tf"
+all_model_checkpoint_paths: "/data/srijayd/Desktop/sentiment_tf/sherlock/Karna/ninja2.tf"

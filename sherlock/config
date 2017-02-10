@@ -1,0 +1,4 @@
+batchSize 200
+maxSeqLength 200
+embedSize 20
+numLayers 5
